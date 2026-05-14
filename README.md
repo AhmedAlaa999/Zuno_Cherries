@@ -45,6 +45,3 @@ Play here: https://ahmedalaa999.itch.io/zuno
 
 Created by Ahmed Alaa
 
-## Project Status
-
-Finished basic playable version and currently improving gameplay and visuals.
