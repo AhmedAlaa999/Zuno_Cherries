@@ -1,3 +1,9 @@
+<About this Project>
+    This Game is a fox game like collect 8 cherries before time out so you win it is easy 
+    i put all my efforts so have fun 
+
+<You want to play>
+    https://ahmedalaa999.itch.io/zuno
 <a id="readme-top"></a>
 
 <!-- SHIELDS -->
